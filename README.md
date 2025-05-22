@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baptiste Goumain</h1>
-<h3 align="center">A sportsman who studies data science at the Paris 1 Pantheon Sorbonne University</h3>
+<h3 align="center">Passionate about both data and sports. Currently working as a data science consultant. Graduate of Paris 1 Panthéon-Sorbonne University.</h3>
 
-- 🔭 I’m currently working on [ACCL tool](https://advanced-climate-change-long-term-scenario-building-model.shinyapps.io/ACCL_Projection_Tool/)
+- 🔭 I used to work on [ACCL tool](https://advanced-climate-change-long-term-scenario-building-model.shinyapps.io/ACCL_Projection_Tool/)
 
 - 👯 I’m looking to collaborate on **sport and/or health**
 
@@ -13,4 +13,22 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+
+  <!-- R -->
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  </a>
+
+  <!-- SAS : pas trouvé la bonne image -->
+
+  <!-- SQL with cylinder icon -->
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/database.png" alt="sql" width="40" height="40"/>
+  </a>
+</p>
+
